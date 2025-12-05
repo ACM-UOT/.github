@@ -57,7 +57,7 @@ Look for issues labeled `good-first-issue` or `help-wanted` in repositories to f
 - **Website**: [official website](https://uot.acm.org)
 - **Facebook**: [Facebook](https://www.facebook.com/acmuot)
 - **LinkedIn**: [LinkedIn](https://linkedin.com/company/uotacm)
-- **Email**: [uotacm@gmail.com](mailto: uotacm@gmail.com)
+- **Email**: [uotacm@gmail.com](uotacm@gmail.com)
 
 ## License
 Most projects in this organization are released under the **MIT License** unless otherwise specified. Check individual repository LICENSE files for details.
