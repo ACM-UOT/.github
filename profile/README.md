@@ -62,15 +62,6 @@ Look for issues labeled `good-first-issue` or `help-wanted` in repositories to f
 ## License
 Most projects in this organization are released under the **MIT License** unless otherwise specified. Check individual repository LICENSE files for details.
 
-## Featured Projects
-Here are some highlights from our organization:
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Project Name 1](#) | Brief description | Python, React, MongoDB |
-| [Project Name 2](#) | Brief description | JavaScript, Node.js |
-| [Project Name 3](#) | Brief description | Flutter, Firebase |
-
 ## Learning Paths
 We organize content by skill level:
 - **Beginner**: HTML/CSS, Python basics, Git fundamentals
