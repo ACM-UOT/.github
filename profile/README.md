@@ -40,7 +40,7 @@ All our **public repositories** are open for you to:
 We welcome contributions from everyone! Here's how you can get involved:
 
 ### For Students at Our University:
-1. Join our chapter through our [official website](uot.acm.org).
+1. Join our chapter through our [official website](https://uot.acm.org).
 2. Get added to the organization by chapter leadership
 3. Start contributing to existing projects or propose new ones
 
